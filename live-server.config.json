@@ -1,0 +1,1 @@
+{ "liveServer.settings.port": 8080, "liveServer.settings.host": "localhost", "liveServer.settings.open": true, "liveServer.settings.headers": { "Cross-Origin-Embedder-Policy": "require-corp", "Cross-Origin-Opener-Policy": "same-origin" } }
